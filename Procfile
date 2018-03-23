@@ -1,1 +1,1 @@
-worker: python Battle_Bot_1_Solved
+worker: python Battle_Bot_1_Solved.py
